@@ -32,3 +32,11 @@ You can use it as a:
 | **AI Integration** | OpenAI GPT-4 (or GPT-3.5) | Generates the contextual quotes |
 | **Version Control** | Git + GitHub | Code management |
 | **Deployment** | Render / Netlify / Vercel | Host backend and frontend |
+
+---
+
+## Note:
+Everything is in the html document.
+
+## Credits 
+Credits to Github copilot for help and tutoring
